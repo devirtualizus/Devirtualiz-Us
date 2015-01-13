@@ -1,27 +1,25 @@
 # Devirtualiz-Us
 
-This README would normally document whatever steps are necessary to get your application up and running.
+How to participate into Devirtualiz'Us ?
 
-### What is this repository for? ###
+### About this repository ###
 
-* Dépôt destiné à notre PFE Devirtualiz'Us
+* This repository is for people wishing to develop data records modules which could be then integrated into the Android Devirtualiz'Us application, or simply use existing modules for their own applications.
 * Version 1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* License MIT
 
 ### How do I get set up? ###
 
-* Configuration : Eclipse + SDK Android + environnement de dev API 14
-* Dependencies : API ?
-* Database configuration : A déterminer
-* How to run tests : trop loiiiin
-* Deployment instructions : version minimale Android requise pour notre app
+* Configuration : Android API from 19
+* Database configuration : Parse Android Library
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+You can either :
+* Develop a new module which could be integrated into the Android Devirtualiz'Us application
+* Use our modules to use into your own applications
 
 ### Who do I talk to? ###
 
-* Dépôt destiné à Kevin Thas-Pinot, Claude Michel, Vladimir Berchadsky, Hugues Bipost, Ridwan Burahee
+* Authors: Kevin Thas-Pinot, Claude Michel, Vladimir Berchadsky, Hugues Bipost, Ridwan Burahee
+* Developers
